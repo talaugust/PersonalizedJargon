@@ -2,6 +2,10 @@
 
 This Google Apps Script generates a Google Form for conducting a survey to evaluate researchers' familiarity with terms in scientific abstracts. The script reads data from a Google Sheet and creates a form with multiple sections and questions based on the provided data.
 
+## Example Survey
+
+This is an example survey: [link](https://docs.google.com/forms/d/e/1FAIpQLSfgDmzQTc1VraMwWy0B12BDhCdSnrnbpxA04U5D6SvjA_9_ug/viewform?usp=sf_link)
+
 ## Features
 
 - Automatically creates a Google Form titled "Term Familiarity" based on data from a Google Sheet.
