@@ -47,8 +47,8 @@ function createFormFromSheet() {
   form.addSectionHeaderItem().setHelpText(descriptionText);
 
 
-  var descriptionText = 'Current study is considered exempt upon University of Washington IRB (ID: MOD00015554). \n\n';
-  descriptionText += 'If you have any questions, please reach out to yguo50@uw.edu.';
+  var descriptionText = 'Current study is considered exempt upon XXX IRB (ID: XXX). \n\n';
+  descriptionText += 'If you have any questions, please reach out to XXX@gmail.com.';
   
   form.addSectionHeaderItem().setHelpText(descriptionText);
   form.addPageBreakItem();
