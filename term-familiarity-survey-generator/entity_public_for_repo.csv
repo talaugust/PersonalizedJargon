@@ -1,0 +1,212 @@
+entity_1,entity_2,entity_3,entity_4,entity_5,entity_6,entity_7,entity_8,entity_9,entity_10,paper_sha,title,abstract,citation_count,entity,ordered_entity,s2fieldsofstudy,venue,journal_name
+Implied volatility,Option pricing models,No-arbitrage,Risk-neutral drift,Dynamic no-arbitrage,Parametric specifications,Quadratic equation,Dynamic calibration,Over-the-counter currency,Equity index option,4b6874010444039297b19ed889a6c5659fd9837c,A New Simple Approach for Constructing Implied Volatility Surfaces,"Standard option pricing models specify the dynamics of the security price and the instantaneous variance rate, and derive the no-arbitrage implication on the shape of the option implied volatility surface. Market models start with an initial implied volatility surface and a diffusion specification for the implied volatility dynamics, and derive the no-arbitrage constraints on the risk-neutral drift of the dynamics. In this paper, we propose a new approach, which specifies the security price and the implied volatility dynamics while leaving the instantaneous variance rate dynamics unspecified, and derives the allowable shape for the initial implied volatility surface based on dynamic no-arbitrage arguments. We propose two parametric specifications for the implied volatility dynamics that lead to extreme tractability, as the whole implied volatility surface is determined by a quadratic equation. The paper also proposes a dynamic calibration methodology and calibrates the two models to over-the-counter currency option and equity index option implied volatility surfaces over an 11-year period. The model with lognormal implied variance dynamics generates superior performance over standard option pricing models of similar complexities. Furthermore, constructing implied volatility surfaces using our two models is 100 times faster than using traditional option pricing models.",28,"Implied volatility
+Option pricing models
+No-arbitrage
+Risk-neutral drift
+Dynamic no-arbitrage
+Parametric specifications
+Quadratic equation
+Dynamic calibration
+Over-the-counter currency
+Equity index option","Option pricing models
+No-arbitrage
+Implied volatility
+Risk-neutral drift
+Dynamic no-arbitrage
+Parametric specifications
+Quadratic equation
+Dynamic calibration
+Over-the-counter currency
+Equity index option",Economics,,
+2 x 4 appliance,maxillary incisors,bands on first permanent maxillary molars,continuous archwire,early mixed dentition,anterior crossbites,alignment of ectopic incisors,complete control of anterior tooth position,extremely well tolerated,no adjustment by patient,4f26f91d66d6bb2ef50d771019e3bdb73992aafb,The two by four appliance: a versatile appliance.,"The 2 x 4 appliance comprises bonds on the maxillary incisors, bands on the first permanent maxillary molars and a continuous archwire. The appliance is used in the early mixed dentition for treatment of both anterior crossbites and alignment of ectopic incisors. Four cases using this appliance are presented. This appliance offers many advantages over alternative techniques as it provides complete control of anterior tooth position, is extremely well tolerated, requires no adjustment by the patient and allows accurate and rapid positioning of the teeth.",34,"2 x 4 appliance
+maxillary incisors
+bands on first permanent maxillary molars
+continuous archwire
+early mixed dentition
+anterior crossbites
+alignment of ectopic incisors
+complete control of anterior tooth position
+extremely well tolerated
+no adjustment by patient","2 x 4 appliance
+maxillary incisors
+continuous archwire
+early mixed dentition
+anterior crossbites
+alignment of ectopic incisors
+complete control of anterior tooth position
+extremely well tolerated",Medicine,Dental update,Dental update
+Crosslinking,Polyelectrolyte membranes,Thiol-ene (click) chemistry,UV light-induced,Highly ionic environment,Covalent,Imidazolium-based poly(ionic liquid),Phase separation,Fully interconnected porous structure,Micrometer scale,2e3f120084d2c7e966e430fb571eb6c11dacf919,Stable Covalently Photo-Crosslinked Poly(Ionic Liquid) Membrane with Gradient Pore Size.,"Porous polyelectrolyte membranes stable in a highly ionic environment are obtained by covalent crosslinking of an imidazolium-based poly(ionic liquid). The crosslinking reaction involves the UV light-induced thiol-ene (click) chemistry, and the phase separation, occurring during the crosslinking step, generates a fully interconnected porous structure in the membrane. The porosity is on the order of the micrometer scale and the membrane shows a gradient of pore size across the membrane cross-section. The membrane can separate polystyrene latex particles of different size and undergoes actuation in contact with acetone due to the asymmetric porous structure.",8,"Crosslinking
+ Polyelectrolyte membranes
+ Thiol-ene (click) chemistry
+ UV light-induced
+ Highly ionic environment
+ Covalent
+ Imidazolium-based poly(ionic liquid)
+ Phase separation
+ Fully interconnected porous structure
+ Micrometer scale","Polyelectrolyte membranes
+ Highly ionic environment
+ Covalent
+ Crosslinking
+ Imidazolium-based poly(ionic liquid)
+ UV light-induced
+ Thiol-ene (click) chemistry
+ Phase separation
+ Fully interconnected porous structure
+ Micrometer scale",Materials Science,Macromolecular rapid communications,Macromolecular rapid communications
+Pathological intoxication,Selective serotonin reuptake inhibitor (SSRI),Antidepressant,Alcohol,Memory impairment,Serious violence,Homicide,Laboratory studies,Problem drinkers,Systematic collection,fdacd2dd8e8b646356647c5333a1a9a6cf76dee6,Interaction between antidepressants and alcohol: signal amplification by multiple case reports.,"BACKGROUND
+ Alcohol use and antidepressant prescription are prevalent in many countries, but little is known about their combined effects.
+ 
+
+ 
+
+ OBJECTIVE
+ Having been surprised by selective serotonin reuptake inhibitor (SSRI) antidepressant-treated patients who became prone to pathological intoxication, we examined this association, searching for relevant literature and cases.
+ 
+
+ 
+
+ METHODS
+ A detailed literature search showed little or no interaction between SSRIs and alcohol in laboratory studies, and inconsistent effects of these drugs in problem drinkers. We collected cases to study from our own and colleagues' practices, regulatory agencies and web-based discussion fora, and considered evidence for interactions according to standard criteria.
+ 
+
+ 
+
+ RESULTS
+ Pathological intoxication, characterized by unexpected and often gross disinhibition, was identified in 100 of 201 reports that provided enough detail to be evaluated. Memory impairment was prominent in just over half (53/100) of these. Outcomes included serious violence; homicide occurred in 8 cases, including two double and one triple homicide (12 deaths).
+ 
+
+ 
+
+ CONCLUSIONS
+ Multiple lines of evidence amplify a thus far barely recognized signal of interactions of SSRI and related antidepressants with alcohol. Systematic collection of further data is required to further characterize this syndrome, but in the meantime effective warnings must be introduced to alert prescribers and patients to the serious risk of pathological intoxication during antidepressant treatment.",23,"Pathological intoxication
+ Selective serotonin reuptake inhibitor (SSRI)
+ Antidepressant
+ Alcohol
+ Memory impairment
+ Serious violence
+ Homicide
+ Laboratory studies
+ Problem drinkers
+ Systematic collection","Alcohol
+ Antidepressant
+ Selective serotonin reuptake inhibitor (SSRI)
+ Pathological intoxication
+ Laboratory studies
+ Problem drinkers
+ Memory impairment
+ Serious violence
+ Homicide
+ Systematic collection","Medicine,Psychology",The International journal of risk & safety in medicine,The International journal of risk & safety in medicine
+Robots,Everyday manipulation,Autonomous robots,Problem-solving capabilities,Constrained environments,Qualitative spatio-temporal inferences,Commonsense reasoning methods,Master everyday manipulation,General problem-solving capabilities,Wider spectrum of tasks,ff2596d82b6df529c1b0a9ad1bfdebcd9ccd05fa,Naive physics and commonsense reasoning for everyday robot manipulation,"Today's autonomous robots accomplish only selected tasks in constrained environments. But if robots are to master everyday manipulation, they need general problem-solving capabilities as humans have. We have developed commonsense reasoning methods to make qualitative spatio-temporal inferences about manipulation tasks performed by humans and robots. Hence, robots are enabled to reason about a wider spectrum of tasks, which will considerably deepen their understanding of everyday manipulation.",5,"Robots
+Everyday manipulation
+Autonomous robots
+Problem-solving capabilities
+Constrained environments
+Qualitative spatio-temporal inferences
+Commonsense reasoning methods
+Master everyday manipulation
+General problem-solving capabilities
+Wider spectrum of tasks","Autonomous robots
+Robots
+Constrained environments
+Master everyday manipulation
+Everyday manipulation
+General problem-solving capabilities
+Problem-solving capabilities
+Commonsense reasoning methods
+Qualitative spatio-temporal inferences
+Wider spectrum of tasks",Psychology,,
+Integrated gas and electrical power system,Bidirectional energy conversion,Transient gas flow,Steady-state power flow,Dynamic optimal energy flow,Linear programming,Test case,Power-to-gas,Decision support,Coordinated natural gas and electrical power systems,4d672fe143b5cf1dc7e74e9eb1fea0847efe5b77,Dynamic Optimal Energy Flow in the Integrated Natural Gas and Electrical Power Systems,"This paper focuses on the optimal operation of the integrated gas and electrical power system with bidirectional energy conversion. Considering the different response times of the gas and power systems, the transient gas flow and steady-state power flow are combined to formulate the dynamic optimal energy flow in the integrated gas and power systems. With proper assumptions and simplifications, the problem is transformed into a single-stage linear programming to obtain the optimal operation strategy for both gas and power systems. Simulation on the test case illustrates the success of the modeling and the beneficial roles of the power-to-gas are analyzed. The proposed model can be used in the decision support for both planning and operation of the coordinated natural gas and electrical power systems.",201,"Integrated gas and electrical power system
+Bidirectional energy conversion
+Transient gas flow
+Steady-state power flow
+Dynamic optimal energy flow
+Linear programming
+Test case
+Power-to-gas
+Decision support
+Coordinated natural gas and electrical power systems","Integrated gas and electrical power system
+Bidirectional energy conversion
+Transient gas flow
+Steady-state power flow
+Dynamic optimal energy flow
+Linear programming
+Test case
+Power-to-gas
+Decision support
+Coordinated natural gas and electrical power systems",Engineering,IEEE Transactions on Sustainable Energy,IEEE Transactions on Sustainable Energy
+Control system,Trajectory tracking,Actuator constraints,Saturated tracking controller,Hyperbolic tangent functions,Adaptive robust techniques,Lyapunov-based stability analysis,Closed-loop system,Tracking errors,Simulation results,5cf2611ff44637dfe21bb76494ddfd972ad6879e,Trajectory tracking control of autonomous underactuated hovercraft vehicles with limited torque,"This paper addresses trajectory tracking control of hovercraft vehicles in the presence of actuator constraints. A saturated tracking controller is designed by utilizing hyperbolic tangent functions to reduce the risk of actuator saturation. Adaptive robust techniques are adopted to guarantee the robustness of the control system against unknown parameters and external disturbances. A Lyapunov-based stability analysis shows that all signals of the closed-loop system are bounded and tracking errors are semi-globally uniformly ultimately bounded. Finally, simulation results are provided to illustrate the effectiveness of the proposed controller.",5,"Control system
+Trajectory tracking
+Actuator constraints
+Saturated tracking controller
+Hyperbolic tangent functions
+Adaptive robust techniques
+Lyapunov-based stability analysis
+Closed-loop system
+Tracking errors
+Simulation results","Trajectory tracking
+Actuator constraints
+Saturated tracking controller
+Hyperbolic tangent functions
+Adaptive robust techniques
+Control system
+Lyapunov-based stability analysis
+Closed-loop system
+Tracking errors
+Simulation results","Engineering,Mathematics",2014 Second RSI/ISM International Conference on Robotics and Mechatronics (ICRoM),2014 Second RSI/ISM International Conference on Robotics and Mechatronics (ICRoM)
+Transport properties,Electronic transport,Synthetic gauge field,Photons,Silicon-on-insulator technology,Low-dimensional disordered media,Distribution of transport properties,Edge states,Waves,Bulk localization,00c7a4267f9f38f873d0904b2da75f5857f87c3a,Topologically robust transport of photons in a synthetic gauge field.,"Electronic transport is localized in low-dimensional disordered media. The addition of gauge fields to disordered media leads to fundamental changes in the transport properties. We implement a synthetic gauge field for photons using silicon-on-insulator technology. By determining the distribution of transport properties, we confirm that waves are localized in the bulk and localization is suppressed in edge states. Our system provides a new platform for investigating the transport properties of photons in the presence of synthetic gauge fields.",185,"Transport properties
+Electronic transport
+Synthetic gauge field
+Photons
+Silicon-on-insulator technology
+Low-dimensional disordered media
+Distribution of transport properties
+Edge states
+Waves
+Bulk localization","Electronic transport
+Low-dimensional disordered media
+Transport properties
+Synthetic gauge field
+Photons
+Silicon-on-insulator technology
+Distribution of transport properties
+Waves
+Edge states",Physics,Physical review letters,Physical review letters
+Marriage,Fertility,Racial,Educational,Women,College degree,Returns to marriage,Remarriage rates,Financial security,Divorce,f5f1f0ee31bc63abc2445849ec4280330708f3ed,"Women's Education and Family Behavior: Trends in Marriage, Divorce and Fertility","This paper examines how marital and fertility patterns have changed along racial and educational lines for men and women. Historically, women with more education have been the least likely to marry and have children, but this marriage gap has eroded as the returns to marriage have changed. Marriage and remarriage rates have risen for women with a college degree relative to women with fewer years of education. However, the patterns of, and reasons for, marriage have changed. College educated women marry later, have fewer children, are less likely to view marriage as ""financial security"", are happier in their marriages and with their family life, and are not only the least likely to divorce, but have had the biggest decrease in divorce since the 1970s compared to women without a college degree. In contrast, there have been fewer changes in marital patterns by education for men.",268,"Marriage
+Fertility
+Racial
+Educational
+Women
+College degree
+Returns to marriage
+Remarriage rates
+Financial security
+Divorce","Fertility
+Racial
+Educational
+Women
+Marriage
+Returns to marriage
+Remarriage rates
+College degree
+Financial security
+Divorce","Economics,Sociology,Education",SSRN Electronic Journal,NBER Working Paper Series
+Microfluidics,Monolayers,Micromanipulation,Interfacial fluids,Mechanical driving,Constant pressurization,Bottleneck effect,Confined displacements,Quantitative characterization,Steady pressurization,1b3048d531e1efcf65ef453769df9c39d1ac0a12,"""Bottleneck effect"" in two-dimensional microfluidics.","An anomalously long transient is needed to achieve a steady pressurization of a fluid when forced to flow through micronarrowed channels under constant mechanical driving. This phenomenon, known as the ""bottleneck effect"" is here revisited from a different perspective, by using confined displacements of interfacial fluids. Compared to standard microfluidics, such effect admits in this case a neat quantitative characterization, which reveals intrinsic material characteristics of flowing monolayers and permits to envisage strategies for their controlled micromanipulation.",8,"Microfluidics
+ Monolayers
+ Micromanipulation
+ Interfacial fluids
+ Mechanical driving
+ Constant pressurization
+ Bottleneck effect
+ Confined displacements
+ Quantitative characterization
+ Steady pressurization","Steady pressurization
+ Mechanical driving
+ Bottleneck effect
+ Confined displacements
+ Interfacial fluids
+ Microfluidics
+ Quantitative characterization
+ Monolayers
+ Micromanipulation","Engineering,Biology",Physical review letters,Physical review letters

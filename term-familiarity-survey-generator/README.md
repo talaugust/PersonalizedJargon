@@ -13,9 +13,6 @@ This is an example survey: [link](https://docs.google.com/forms/d/e/1FAIpQLSfgDm
 - Provides detailed instructions and descriptions for each section of the survey.
 - Generates familiarity score questions for each term, both in general and in the context of the provided abstract.
 - Allows respondents to select additional information they would want about each term to better understand the abstract.
-- Supports formatting of text using bold and italic styles.
-- Adds page breaks between each set of questions for better readability.
-- Logs the generated form URL for easy access.
 
 ## Usage
 
@@ -27,6 +24,7 @@ This is an example survey: [link](https://docs.google.com/forms/d/e/1FAIpQLSfgDm
 
 ## Data Format
 
+Example data can be found here: [example data](./entity_public_for_repo.csv)
 The script expects the Google Sheet to have the following columns:
 
 - Column L: Title Text
