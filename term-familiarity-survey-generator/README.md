@@ -25,6 +25,7 @@ This is an example survey: [link](https://docs.google.com/forms/d/e/1FAIpQLSfgDm
 ## Data Format
 
 Example data can be found here: [example data](./entity_public_for_repo.csv)
+
 The script expects the Google Sheet to have the following columns:
 
 - Column L: Title Text
