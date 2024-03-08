@@ -58,10 +58,6 @@ Make sure you have the necessary permissions to use these services in your Googl
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This script is provided under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
-
 ## Acknowledgements
 
 - The script utilizes the Google Apps Script platform and its services.
