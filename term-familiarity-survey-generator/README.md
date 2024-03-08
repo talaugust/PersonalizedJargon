@@ -65,4 +65,4 @@ This script is provided under the [MIT License](LICENSE). Feel free to use, modi
 
 ## Contact
 
-For any questions or inquiries, please contact Yue Guo at yguo50@uw.edu[yguo50@uw.edu].
+For any questions or inquiries, please contact Yue Guo at [yguo50@uw.edu].
