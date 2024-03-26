@@ -1,4 +1,4 @@
-# Personalized Jargon Identification for Enhanced Interdisciplinary Communication
+# Personalized Jargon Identification
 
 This repository contains data and models related to the paper: [Personalized Jargon Identification for Enhanced Interdisciplinary Communication](https://arxiv.org/abs/2311.09481).
 
